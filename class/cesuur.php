@@ -204,9 +204,10 @@ class TestCesuur{
 
     public function TestCesuur(){
 
-   
+        $test = new Cesuur(); 
+        
         try{
-            $test = new Cesuur();
+
             
             // Set mandatory values
             $test->setMaxPunten(40);
