@@ -10,6 +10,7 @@ include_once 'resultaat.php';
 class CesuurTabel {
     
     private $kolom_max=10;
+    private $score;
     /**
      *
      * @var Array Object lijst met Resultaat objectjes.
@@ -90,7 +91,7 @@ class CesuurTabel {
         $this->card_type = 'results_per_score';
     }
     public function setScore( $score ){
-
+        $this->score = $score;
     }
    
     
