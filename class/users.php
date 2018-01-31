@@ -17,5 +17,7 @@ class users {
         echo "Hello World";
         echo " Test another Hello World";
         echo "The next step";
+        
+        //Iets nieuws
     }
 }
