@@ -15,8 +15,7 @@ class users {
     //put your code here
     public function __construct() {
         echo "Hello World";
+        echo " Test another Hello World";
         echo "The next step";
     }
 }
-
-        " Test another Hello World";
