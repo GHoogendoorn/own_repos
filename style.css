@@ -1,0 +1,29 @@
+/* 
+    Document   : style
+    Created on : 4-nov-2011, 21:30:48
+    Author     : GHoogendoorn
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+root { 
+    display: block;
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+.score {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 10pt;
+    color: navy;
+}
+
+.cijfer, .table_head {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 10pt;
+    color: black;
+}
+
